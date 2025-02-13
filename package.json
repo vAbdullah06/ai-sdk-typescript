@@ -1,0 +1,10 @@
+{
+  "name": "ai-sdk-typescript",
+  "version": "0.1.0",
+  "description": "Official TypeScript SDK for AI Gateway - universal client for browser and Node.js (Chat, Embeddings, Images, Audio, NestJS module)",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
